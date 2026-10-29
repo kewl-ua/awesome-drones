@@ -53,6 +53,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ## Software and Libraries
 
 * [ArduPilot Mission Planner](https://github.com/ArduPilot/MissionPlanner) - Mission planner software.
+* [CRSF ASCII Visualizer](https://github.com/kewl-ua/crsf_ascii_visualizer) - Terminal visualizer for CRSF RC channels, sticks and AUX switches over UART, UDP or UNIX sockets.
 * [FPVTune](https://github.com/chugzb/betaflight-pid-autotuning) - Betaflight blackbox log analysis and PID tuning guidance.
 * [Paparazzi](http://wiki.paparazziuav.org/wiki/Main_Page) - Software suite for UAVs, including ground control and autopilot.
 * [QGroundControl](http://qgroundcontrol.com/) - Ground Control Station for PX4 and ArduPilot based UAVs.
